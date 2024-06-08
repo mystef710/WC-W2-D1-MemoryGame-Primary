@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="H5P_Author">
+    <organization identifier="H5P_Author">
+      <title>WC-W2-D1-MemoryGame-Primary</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>WC-W2-D1-MemoryGame-Primary</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="audios/audio-1RtUwVNM.mp3"/>
+      <file href="audios/audio-bXfxxMge.mp3"/>
+      <file href="audios/audio-c3wCMKop.mp3"/>
+      <file href="audios/audio-cmxnlaiE.mp3"/>
+      <file href="audios/audio-Ei88gMOA.mp3"/>
+      <file href="audios/audio-i6muyTo9.mp3"/>
+      <file href="audios/audio-IX9IuRIa.mp3"/>
+      <file href="audios/audio-kjVlxGRv.mp3"/>
+      <file href="audios/audio-M3cGX5h6.mp3"/>
+      <file href="audios/audio-o9vHYlsy.mp3"/>
+      <file href="audios/audio-oEd8bG5H.mp3"/>
+      <file href="audios/audio-RsmkvXiE.mp3"/>
+      <file href="audios/audio-RvmBwTtV.mp3"/>
+      <file href="audios/audio-SfGyNwdX.mp3"/>
+      <file href="audios/audio-TF3p8N35.mp3"/>
+      <file href="audios/audio-urB7y9j0.mp3"/>
+      <file href="audios/audio-wD1F24ld.mp3"/>
+      <file href="audios/audio-X5OTeaFK.mp3"/>
+      <file href="audios/audio-XXHYRMAE.mp3"/>
+      <file href="audios/audio-YjU9TiHb.mp3"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/image-0pK4FrVX.jpg"/>
+      <file href="images/image-4XrfnbTG.jpg"/>
+      <file href="images/image-5ojSRf01.png"/>
+      <file href="images/image-6P9uM0ui.png"/>
+      <file href="images/image-8TG47sWo.png"/>
+      <file href="images/image-9DrYaVcJ.jpg"/>
+      <file href="images/image-9NuLfYcP.jpg"/>
+      <file href="images/image-c5tBufN7.png"/>
+      <file href="images/image-Ew6Ze5LY.png"/>
+      <file href="images/image-GpMDSa9C.png"/>
+      <file href="images/image-iN0R0wWD.png"/>
+      <file href="images/image-K7jDp6gZ.png"/>
+      <file href="images/image-kEyBMxIa.jpg"/>
+      <file href="images/image-mt0TsbeR.jpg"/>
+      <file href="images/image-pbtZe5n1.png"/>
+      <file href="images/image-r7TglShS.png"/>
+      <file href="images/image-u51Hp7LX.jpg"/>
+      <file href="images/image-VTf5YRbN.jpg"/>
+      <file href="images/image-w2o3EBNE.png"/>
+      <file href="images/image-y36Np8Ja.jpg"/>
+      <file href="images/image-yglbMpos.jpg"/>
+      <file href="index.html"/>
+      <file href="SCORM_API_wrapper.js"/>
+    </resource>
+  </resources>
+</manifest>
